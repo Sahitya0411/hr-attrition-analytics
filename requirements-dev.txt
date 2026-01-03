@@ -1,0 +1,6 @@
+# Local development: tests and the EDA notebook
+-r requirements.txt
+pytest>=8
+jupyter>=1.0
+matplotlib>=3.8
+seaborn>=0.13

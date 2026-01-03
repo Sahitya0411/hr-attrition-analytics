@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated on first run
+data/*.db
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+.claude/
+
+# Local secrets (never commit)
+.streamlit/secrets.toml

@@ -1,0 +1,9 @@
+# Runtime dependencies (used by Streamlit Community Cloud)
+streamlit>=1.50,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+plotly>=5.24,<7
+scikit-learn>=1.5,<2
+xgboost>=2.1,<4
+openpyxl>=3.1,<4
+fpdf2>=2.8,<3
