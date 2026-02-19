@@ -1,0 +1,11 @@
+[theme]
+# Only the accent color and font are set, so Streamlit keeps following the
+# viewer's light/dark preference (Settings > Theme in the app menu).
+primaryColor = "#2a78d6"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
