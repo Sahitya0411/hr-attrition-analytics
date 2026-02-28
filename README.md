@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard that explains **who leaves, why they leave, and what it means for future headcount**. It is built on the IBM HR Analytics Employee Attrition dataset (1,470 employees) and covers the full analytics workflow: Python data wrangling, SQL (CTEs and window functions), EDA, machine learning, scenario forecasting and automated reporting.
 
-> **Live demo:** _add your Streamlit Community Cloud URL here_
+> **Live demo:** https://hr-attrition-analyticss.streamlit.app/
 
 ---
 
