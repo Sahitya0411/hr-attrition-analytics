@@ -133,3 +133,6 @@ jupyter notebook notebooks/eda.ipynb
 - **Probabilities are relative risk scores.** Balanced class weights push predicted probabilities above the true 16% base rate, so use them to rank employees, not as calibrated likelihoods.
 - **Insights are never hardcoded.** Each insight is picked from every segment of 13 dimensions, filtered to groups of at least 20 employees (or 3% of the view), and ranked by excess leavers.
 - **Forecast assumption:** the observed attrition rate is treated as annual. The dataset has no time dimension, and the app states this assumption.
+
+---
+<!-- v1.0 released 2026-02-28 -->
